@@ -1,0 +1,37 @@
+// 20241125103115
+// https://raw.githubusercontent.com/haridas4274/mocks/refs/heads/main/routes/routes.json
+
+{
+  "status": 1,
+  "dataRowCount": 0,
+  "data": {
+    "OROB7BJ220": {
+      "id":"ORN1OIH27",
+      "title":"Namakkal"
+    },
+    "OROB7BJ220": {
+      "id":"ORN1OIH27",
+      "title":"Namakkal"
+    },
+    "OROB7BJ220": {
+      "id":"ORN1OIH27",
+      "title":"Namakkal"
+    },
+    "OROB7BJ220": {
+      "id":"ORN1OIH27",
+      "title":"Namakkal"
+    },
+    "OROB7BJ220": {
+      "id":"ORN1OIH27",
+      "title":"Namakkal"
+    },
+    "OROB7BJ220": {
+      "id":"ORN1OIH27",
+      "title":"Namakkal"
+    },
+    "OROB7BJ220": {
+      "id":"ORN1OIH27",
+      "title":"Namakkal"
+    }
+  }
+}
